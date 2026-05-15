@@ -66,7 +66,9 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/dashboard1.png)
+## Dashboard Preview
+
+![Dashboard](https://raw.githubusercontent.com/nithish86-bit/hypermarket-sales-dashboard/main/Screenshots/dashboard1.png)
 
 ---
 
