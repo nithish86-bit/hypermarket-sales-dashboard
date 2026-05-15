@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on analyzing hypermarket sales data using SQL and Power BI to identify sales trends, profit performance, and business insights.
 
-The dashboard helps in understanding customer purchasing behavior, top-performing products, and regional sales performance.
+The dashboard helps understand customer purchasing behavior, top-performing products, and regional sales performance.
 
 ---
 
@@ -16,11 +16,11 @@ The dashboard helps in understanding customer purchasing behavior, top-performin
 
 ## Business Objectives
 The main objectives of this project are:
-- Analyze overall sales performance
+- Analyze sales performance
 - Identify top-selling products
 - Track profit trends
 - Compare regional sales performance
-- Create an interactive business dashboard
+- Create an interactive dashboard
 
 ---
 
@@ -48,7 +48,7 @@ The following analysis was performed using SQL:
 ## Power BI Dashboard Features
 The dashboard includes:
 - KPI Cards
-- Sales Trend Visualizations
+- Sales Trend Charts
 - Product Category Analysis
 - Regional Sales Comparison
 - Interactive Filters and Slicers
@@ -57,11 +57,10 @@ The dashboard includes:
 ---
 
 ## Key Insights
-Some important insights identified from the dashboard:
 - Certain product categories generate higher profits
 - Some regions contribute more sales than others
-- Monthly sales trends help identify business growth patterns
-- Interactive visuals improve decision-making
+- Monthly sales trends help identify growth patterns
+- Interactive visuals improve business decision-making
 
 ---
 
